@@ -1,0 +1,7 @@
+DEPENDENCIES
+  compliance
+    path: .
+    metadata: true
+
+GRAPH
+  compliance (0.1.0)
